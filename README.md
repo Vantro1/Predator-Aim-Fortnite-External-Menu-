@@ -5,3 +5,5 @@ Pasted Fortnite Cheat that Sinclear#0654 is trying to sell ( Skidded menu ) Orig
 
 
 Yes Public Menu On a paid fortnite cheat paste lol
+
+Discord to the retarded paste: https://discord.gg/zSE8J2GHdh
