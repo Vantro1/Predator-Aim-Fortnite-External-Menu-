@@ -31,6 +31,8 @@ namespace ZeroGui
 
 
 
+
+
 auto menu()->VOID {
 	static ImVec2 pos(180, 100);
 	if (ZeroGui::begin_window(0, pos, ImVec2(585.0f, 425.0f), MenuIsOpen, true))
@@ -42,8 +44,6 @@ auto menu()->VOID {
 
 		ImVec2 titlePos = ImVec2(pos.x + 585.0f / 2, pos.y + 25 / 2);
 		ZeroGui::text_center(_("Predator Fortnite (Skidded Cheat and this menu was original made by pІu#9024"), titlePos, IM_COL32(255, 255, 255, 255));
-
-
 		ZeroGui::text_normal(_(""));
 
 		ZeroGui::next_column(30.0f);
